@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "579c6f134bff4a6d30bc554c56d46f50",
+    "revision": "efd270ab50962120addc4df50f03ff31",
     "url": "/Simer/index.html"
   },
   {
-    "revision": "732df17d3db145a81afa",
-    "url": "/Simer/static/css/main.4458a440.chunk.css"
+    "revision": "d70de4967688ed748d42",
+    "url": "/Simer/static/css/main.6f3a2106.chunk.css"
   },
   {
     "revision": "f94624e5b54311127d2d",
     "url": "/Simer/static/js/2.e5530959.chunk.js"
   },
   {
-    "revision": "732df17d3db145a81afa",
+    "revision": "d70de4967688ed748d42",
     "url": "/Simer/static/js/main.c58781bb.chunk.js"
   },
   {
