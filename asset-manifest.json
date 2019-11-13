@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Simer/static/css/main.e654409a.chunk.css",
-    "main.js": "/Simer/static/js/main.3be467c3.chunk.js",
-    "main.js.map": "/Simer/static/js/main.3be467c3.chunk.js.map",
+    "main.css": "/Simer/static/css/main.a0171b6a.chunk.css",
+    "main.js": "/Simer/static/js/main.121e1b7a.chunk.js",
+    "main.js.map": "/Simer/static/js/main.121e1b7a.chunk.js.map",
     "runtime-main.js": "/Simer/static/js/runtime-main.381206bd.js",
     "runtime-main.js.map": "/Simer/static/js/runtime-main.381206bd.js.map",
     "static/js/2.104c841c.chunk.js": "/Simer/static/js/2.104c841c.chunk.js",
     "static/js/2.104c841c.chunk.js.map": "/Simer/static/js/2.104c841c.chunk.js.map",
     "index.html": "/Simer/index.html",
-    "precache-manifest.a81c9f7754bd860f8e6447f4c48bfb12.js": "/Simer/precache-manifest.a81c9f7754bd860f8e6447f4c48bfb12.js",
+    "precache-manifest.2f4151947ae6b803314e19eb62b154a3.js": "/Simer/precache-manifest.2f4151947ae6b803314e19eb62b154a3.js",
     "service-worker.js": "/Simer/service-worker.js",
-    "static/css/main.e654409a.chunk.css.map": "/Simer/static/css/main.e654409a.chunk.css.map",
+    "static/css/main.a0171b6a.chunk.css.map": "/Simer/static/css/main.a0171b6a.chunk.css.map",
     "static/media/bars-solid.svg": "/Simer/static/media/bars-solid.bdcaa185.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.381206bd.js",
     "static/js/2.104c841c.chunk.js",
-    "static/css/main.e654409a.chunk.css",
-    "static/js/main.3be467c3.chunk.js"
+    "static/css/main.a0171b6a.chunk.css",
+    "static/js/main.121e1b7a.chunk.js"
   ]
 }
