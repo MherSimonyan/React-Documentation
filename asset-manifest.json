@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Simer/static/css/main.6f3a2106.chunk.css",
-    "main.js": "/Simer/static/js/main.c58781bb.chunk.js",
-    "main.js.map": "/Simer/static/js/main.c58781bb.chunk.js.map",
+    "main.css": "/Simer/static/css/main.4458a440.chunk.css",
+    "main.js": "/Simer/static/js/main.2df14c68.chunk.js",
+    "main.js.map": "/Simer/static/js/main.2df14c68.chunk.js.map",
     "runtime-main.js": "/Simer/static/js/runtime-main.381206bd.js",
     "runtime-main.js.map": "/Simer/static/js/runtime-main.381206bd.js.map",
-    "static/js/2.e5530959.chunk.js": "/Simer/static/js/2.e5530959.chunk.js",
-    "static/js/2.e5530959.chunk.js.map": "/Simer/static/js/2.e5530959.chunk.js.map",
+    "static/js/2.099611d7.chunk.js": "/Simer/static/js/2.099611d7.chunk.js",
+    "static/js/2.099611d7.chunk.js.map": "/Simer/static/js/2.099611d7.chunk.js.map",
     "index.html": "/Simer/index.html",
-    "precache-manifest.4abb1902491d5ed6963f8406e200685a.js": "/Simer/precache-manifest.4abb1902491d5ed6963f8406e200685a.js",
+    "precache-manifest.5e5fbd6717dcb9bc0ad0e59d0f01c08b.js": "/Simer/precache-manifest.5e5fbd6717dcb9bc0ad0e59d0f01c08b.js",
     "service-worker.js": "/Simer/service-worker.js",
-    "static/css/main.6f3a2106.chunk.css.map": "/Simer/static/css/main.6f3a2106.chunk.css.map",
+    "static/css/main.4458a440.chunk.css.map": "/Simer/static/css/main.4458a440.chunk.css.map",
     "static/media/bars-solid.svg": "/Simer/static/media/bars-solid.bdcaa185.svg",
     "static/media/camera-retro-solid.svg": "/Simer/static/media/camera-retro-solid.2d3f1b5d.svg",
     "static/media/fill-drip-solid.svg": "/Simer/static/media/fill-drip-solid.b2b27948.svg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.381206bd.js",
-    "static/js/2.e5530959.chunk.js",
-    "static/css/main.6f3a2106.chunk.css",
-    "static/js/main.c58781bb.chunk.js"
+    "static/js/2.099611d7.chunk.js",
+    "static/css/main.4458a440.chunk.css",
+    "static/js/main.2df14c68.chunk.js"
   ]
 }
