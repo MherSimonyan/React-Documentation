@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/Simer/static/css/main.a0171b6a.chunk.css",
-    "main.js": "/Simer/static/js/main.121e1b7a.chunk.js",
-    "main.js.map": "/Simer/static/js/main.121e1b7a.chunk.js.map",
+    "main.css": "/Simer/static/css/main.94281e10.chunk.css",
+    "main.js": "/Simer/static/js/main.959bdd50.chunk.js",
+    "main.js.map": "/Simer/static/js/main.959bdd50.chunk.js.map",
     "runtime-main.js": "/Simer/static/js/runtime-main.381206bd.js",
     "runtime-main.js.map": "/Simer/static/js/runtime-main.381206bd.js.map",
-    "static/js/2.104c841c.chunk.js": "/Simer/static/js/2.104c841c.chunk.js",
-    "static/js/2.104c841c.chunk.js.map": "/Simer/static/js/2.104c841c.chunk.js.map",
+    "static/js/2.b1bd31a1.chunk.js": "/Simer/static/js/2.b1bd31a1.chunk.js",
+    "static/js/2.b1bd31a1.chunk.js.map": "/Simer/static/js/2.b1bd31a1.chunk.js.map",
     "index.html": "/Simer/index.html",
-    "precache-manifest.2f4151947ae6b803314e19eb62b154a3.js": "/Simer/precache-manifest.2f4151947ae6b803314e19eb62b154a3.js",
+    "precache-manifest.db5e0e1f82325cc0e8deaa36394fcf73.js": "/Simer/precache-manifest.db5e0e1f82325cc0e8deaa36394fcf73.js",
     "service-worker.js": "/Simer/service-worker.js",
-    "static/css/main.a0171b6a.chunk.css.map": "/Simer/static/css/main.a0171b6a.chunk.css.map",
-    "static/media/bars-solid.svg": "/Simer/static/media/bars-solid.bdcaa185.svg"
+    "static/css/main.94281e10.chunk.css.map": "/Simer/static/css/main.94281e10.chunk.css.map",
+    "static/media/bars-solid.svg": "/Simer/static/media/bars-solid.bdcaa185.svg",
+    "static/media/office.jpg": "/Simer/static/media/office.e18bbd6f.jpg",
+    "static/media/signature.jpg": "/Simer/static/media/signature.34462d69.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.381206bd.js",
-    "static/js/2.104c841c.chunk.js",
-    "static/css/main.a0171b6a.chunk.css",
-    "static/js/main.121e1b7a.chunk.js"
+    "static/js/2.b1bd31a1.chunk.js",
+    "static/css/main.94281e10.chunk.css",
+    "static/js/main.959bdd50.chunk.js"
   ]
 }
