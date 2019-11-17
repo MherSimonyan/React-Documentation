@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Simer/precache-manifest.bf4fe3558d2f2b0f7eb0f77be7cbce25.js"
+  "/Simer/precache-manifest.55d09a526568429a5fc8e25e2cbe694e.js"
 );
 
 self.addEventListener('message', (event) => {
